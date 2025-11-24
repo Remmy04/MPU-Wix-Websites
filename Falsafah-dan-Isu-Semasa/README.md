@@ -1,4 +1,4 @@
-# 🌐 Falsafah dan Isu Semasa (FIS)
+# 🌐 Falsafah dan Isu Semasa
 
 ### 🔗 Live Website  
 👉 https://zhenglek.wixsite.com/climatechange
