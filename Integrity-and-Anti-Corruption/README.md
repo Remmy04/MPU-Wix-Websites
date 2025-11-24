@@ -6,7 +6,7 @@
 ---
 
 ### 📘 About This Course  
-**Integrity & Anti-Corruption (MPU2312)** is a module that teaches the importance of ethical behaviour, transparency, and responsible decision-making in society.  
+**Integrity & Anti-Corruption** is a module that teaches the importance of ethical behaviour, transparency, and responsible decision-making in society.  
 Students analyse real corruption cases, such as the **1MDB scandal** ,to understand how corruption affects individuals, organisations, and the nation.  
 
 The course highlights:  
