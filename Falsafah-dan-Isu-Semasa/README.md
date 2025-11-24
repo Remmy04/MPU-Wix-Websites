@@ -6,7 +6,7 @@
 ---
 
 ### 📘 About This Course  
-**Falsafah dan Isu Semasa (MPU3193)** explores how philosophical thinking helps us understand and evaluate modern issues.  
+**Falsafah dan Isu Semasa** explores how philosophical thinking helps us understand and evaluate modern issues.  
 Through Western and Eastern perspectives, logic, epistemology, ideology, and the Philosophy of Sejahtera, students analyze global challenges — including climate change and environmental sustainability — using structured philosophical frameworks.  
 This course encourages critical thinking, ethical reasoning, and understanding of how different worldviews shape society’s response to current issues. 
 
