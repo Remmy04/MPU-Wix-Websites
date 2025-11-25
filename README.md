@@ -5,6 +5,7 @@
 # 📚 MPU Wix Website Projects
 
 This repository showcases the Wix websites I designed and developed for MPU group assignments at Taylor’s University.  
+
 Across these projects, I served as the Wix website designer, and for two of the courses, I also took on the role of group leader, coordinating a large team of around 20 members.
 
 ---
