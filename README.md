@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="/assets/github-header-banner.png" width="100%">
+</p>
+
 # 📚 MPU Wix Website Projects
 
 This repository showcases the Wix websites I designed and developed for MPU group assignments at Taylor’s University.  
